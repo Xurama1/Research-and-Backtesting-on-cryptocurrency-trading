@@ -1,1 +1,1 @@
-# Crypto-trading-robot
+# Backtesting and statistical testing on cryptocurrencies
